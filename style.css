@@ -1,0 +1,26 @@
+body{
+    align-items: center;
+}
+.navbar1, footer{
+    background-color: rgb(228, 228, 228);
+}
+.container{
+    margin-top: 20vw;
+}
+li{
+    size: 50px;
+    color: rgb(255, 0, 0);
+}
+.row{
+    align-items: center;
+}
+.line{
+    border: 1px solid #000000;
+}
+button a, p{
+    text-decoration-line: none;
+    color: rgba(133, 133, 133, 0.61);
+}
+.bton{
+    border: 1px solid rgba(133, 133, 133, 0.61);
+}
